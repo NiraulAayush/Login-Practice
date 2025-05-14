@@ -8,7 +8,8 @@ This is a basic Selenium-Pytest framework to automate login functionality using 
 
 - `data/`: Contains test data like login credentials.
 - `pages/`: Contains page classes representing web pages (e.g., LoginPage).
-- `tests/`: Contains test files and fixtures.
+- `tests/`: Contains test files.
+- `conftest.py`: Contains fixtures.
 - `requirements.txt`: Lists Python dependencies.
 - `README.md`: Documentation for the project.
 
